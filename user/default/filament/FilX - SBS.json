@@ -1,46 +1,46 @@
 {
     "close_fan_the_first_x_layers": [
-        "1"
+        "3"
     ],
     "default_filament_colour": [
         "#000000"
     ],
-    "enable_pressure_advance": [
-        "1"
-    ],
     "fan_max_speed": [
-        "0"
+        "30"
     ],
     "fan_min_speed": [
         "0"
     ],
-    "filament_flow_ratio": [
-        "1"
+    "filament_cost": [
+        "299"
+    ],
+    "filament_density": [
+        "0.967"
     ],
     "filament_max_volumetric_speed": [
-        "23"
+        "25"
     ],
     "filament_settings_id": [
         "FilX - SBS"
     ],
     "filament_type": [
-        "PPS"
+        "SBS"
     ],
     "filament_vendor": [
         "FilX"
     ],
     "from": "User",
-    "inherits": "Creality Generic PETG",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
+    "inherits": "Creality Generic PLA",
     "is_custom_defined": "0",
     "name": "FilX - SBS",
-    "nozzle_temperature": [
-        "230"
-    ],
     "nozzle_temperature_initial_layer": [
-        "235"
-    ],
-    "nozzle_temperature_range_high": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_range_low": [
         "215"
@@ -48,8 +48,5 @@
     "reduce_fan_stop_start_freq": [
         "0"
     ],
-    "slow_down_min_speed": [
-        "8"
-    ],
-    "version": "2.0.2.0"
+    "version": "2.1.1.0"
 }
