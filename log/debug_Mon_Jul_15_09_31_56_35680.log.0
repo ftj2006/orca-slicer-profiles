@@ -1,9 +1,0 @@
-[error]	2024-07-15 09:32:03.609571[Thread 0x00008238]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-07-15 09:32:03.618581[Thread 0x0000a550]:File Metadata/plate_1.png not found from archive
-[error]	2024-07-15 09:32:03.627525[Thread 0x000067bc]:File Metadata/plate_1.png not found from archive
-[error]	2024-07-15 09:32:03.701243[Thread 0x00002cd0]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
-[error]	2024-07-15 09:32:06.546712[Thread 0x00008238]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-07-15 09:32:07.508539[Thread 0x00008238]:File Metadata/plate_1.png not found from archive
-[warning]	2024-07-15 09:32:07.550219[Thread 0x00008238]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[warning]	2024-07-15 09:32:53.074290[Thread 0x0000b374]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"cleareance_radius":47,000000,"printable_height":300,000000,
-[error]	2024-07-15 09:34:48.123541[Thread 0x00008238]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
