@@ -1,0 +1,8 @@
+[error]	2024-07-22 15:00:41.917704[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\process\0.4mm Draft @Creality Ender3S1Plus 0.6.json!
+[error]	2024-07-22 15:00:41.918703[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\Creality PETG.json!
+[error]	2024-07-22 15:00:41.918703[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\FilX - SBS.json!
+[error]	2024-07-22 15:00:41.919699[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\FilX - Silk PLA.json!
+[error]	2024-07-22 15:00:41.919699[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\SA Filament - PETG.json!
+[error]	2024-07-22 15:00:41.919699[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\SA Filament - Silk PLA.json!
+[error]	2024-07-22 15:00:41.919699[Thread 0x00006fb0]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\machine\S1 Plus 0.6.json!
+[error]	2024-07-22 15:00:46.127710[Thread 0x00006fb0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

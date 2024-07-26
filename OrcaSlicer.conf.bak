@@ -1,0 +1,303 @@
+{
+    "app": {
+        "allow_ip_resolve": true,
+        "associate_3mf": true,
+        "associate_step": true,
+        "associate_stl": true,
+        "auto_calculate": true,
+        "auto_calculate_when_filament_change": true,
+        "backup_interval": "10",
+        "backup_switch": true,
+        "camera_navigation_style": "0",
+        "check_stable_update_only": false,
+        "curr_bed_type": "3",
+        "dark_color_mode": "1",
+        "default_page": "0",
+        "developer_mode": false,
+        "download_path": "C:\\Users\\Paul\\Downloads",
+        "drop_project_action": true,
+        "enable_multi_machine": false,
+        "enable_ssl_for_ftp": true,
+        "enable_ssl_for_mqtt": true,
+        "flush_multiplier": "1.000000",
+        "import_project_action": "2",
+        "installed_networking": true,
+        "internal_developer_mode": false,
+        "iot_environment": "3",
+        "keyboard_supported": "none/alt/control/shift",
+        "language": "en_ZA",
+        "last_backup_path": "C:\\Users\\Paul\\AppData\\Local\\Temp/orcaslicer_model/Fri_Jul_26/11_13_40#16368#57",
+        "last_export_path": "C:\\Users\\Paul\\Desktop\\Beebs",
+        "log_severity_level": "warning",
+        "max_recent_count": "18",
+        "max_send": "3",
+        "mouse_supported": "mouse left/mouse middle/mouse right",
+        "mouse_wheel": "0",
+        "move_view": "none/mouse left",
+        "open_device_tab_post_upload": true,
+        "precise_control": "none/mouse left",
+        "preset_folder": "455266703",
+        "print_host_queue_dialog_column_0": "80",
+        "print_host_queue_dialog_column_1": "80",
+        "print_host_queue_dialog_column_2": "80",
+        "print_host_queue_dialog_column_3": "80",
+        "print_host_queue_dialog_column_4": "80",
+        "print_host_queue_dialog_column_5": "80",
+        "print_host_queue_dialog_height": "57",
+        "print_host_queue_dialog_width": "28",
+        "print_host_queue_dialog_x": "761",
+        "print_host_queue_dialog_y": "395",
+        "privacy_version": "00.00.00.00",
+        "region": "Others",
+        "remember_printer_config": true,
+        "reverse_mouse_wheel_zoom": false,
+        "rotate_view": "none/mouse left",
+        "sending_interval": "5",
+        "show_3d_navigator": true,
+        "show_build_edgets": false,
+        "show_daily_tips": true,
+        "show_drop_project_dialog": false,
+        "show_gcode_window": true,
+        "show_hints": true,
+        "show_home_page": true,
+        "show_model_mesh": false,
+        "show_model_shadow": true,
+        "show_printable_box": true,
+        "show_splash_screen": true,
+        "single_instance": false,
+        "skip_ams_blacklist_check": true,
+        "slicer_uuid": "5e229089-307b-493d-b20a-45ef6f78b557",
+        "stealth_mode": true,
+        "sync_system_preset": true,
+        "sync_user_preset": true,
+        "sys_menu_enabled": "1",
+        "toolkit_size": "100",
+        "units": "0",
+        "use_free_camera": false,
+        "use_inches": "0",
+        "use_legacy_3DConnexion": true,
+        "use_perspective_camera": true,
+        "user_mode": "advanced",
+        "version": "01.09.03.50",
+        "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=480;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=482|",
+        "window_mainframe": "-7; -7; 1934; 1054; 1",
+        "zoom_to_mouse": false,
+        "zoom_view": "none/mouse left"
+    },
+    "arrange": {
+        "enable_rotation_fff": true,
+        "min_object_distance_fff": "20"
+    },
+    "custom_color_list": {
+        "10": "0,0,0,255",
+        "11": "16,16,16,255",
+        "12": "32,32,32,255",
+        "13": "48,48,48,255",
+        "14": "64,64,64,255",
+        "15": "80,80,80,255",
+        "16": "96,96,96,255",
+        "17": "112,112,112,255",
+        "18": "128,128,128,255",
+        "19": "144,144,144,255",
+        "20": "160,160,160,255",
+        "21": "176,176,176,255",
+        "22": "192,192,192,255",
+        "23": "208,208,208,255",
+        "24": "224,224,224,255",
+        "25": "240,240,240,255"
+    },
+    "filaments": [
+        "Creality Generic ABS",
+        "Creality Generic PETG",
+        "Creality Generic PLA"
+    ],
+    "firstguide": {
+        "finish": true
+    },
+    "font": {
+        "active_font": "0"
+    },
+    "font:1": {
+        "depth": "1,000000",
+        "descriptor": "1;9;-12;0;0;0;400;0;0;0;1;0;0;0;0;Segoe UI",
+        "line_height": "9,000000",
+        "name": "NORMAL"
+    },
+    "font:2": {
+        "depth": "1,000000",
+        "descriptor": "1;8;-11;0;0;0;400;0;0;0;1;0;0;2;32;Arial",
+        "line_height": "8,000000",
+        "name": "SMALL"
+    },
+    "font:3": {
+        "depth": "1,000000",
+        "descriptor": "1;9;-12;0;0;0;400;1;0;0;1;0;0;2;16;Times New Roman",
+        "line_height": "9,000000",
+        "name": "ITALIC"
+    },
+    "font:4": {
+        "depth": "1,000000",
+        "descriptor": "1;9;-12;0;0;0;400;0;0;0;1;0;0;2;32;Arial",
+        "line_height": "9,000000",
+        "name": "SWISS"
+    },
+    "font:5": {
+        "depth": "1,000000",
+        "descriptor": "1;10;-13;0;0;0;700;0;0;0;1;0;0;2;48;Courier New",
+        "line_height": "10,000000",
+        "name": "MODERN"
+    },
+    "header": "OrcaSlicer 2.1.1",
+    "models": [
+        {
+            "model": "Creality Ender-3 S1 Plus",
+            "nozzle_diameter": "0.2;0.4;0.6;0.8",
+            "vendor": "Creality"
+        },
+        {
+            "model": "MyKlipper 0.4 nozzle",
+            "nozzle_diameter": "0.4",
+            "vendor": "Custom"
+        }
+    ],
+    "mouse_device:LOGITECH::UNKNOWN": {
+        "invert_pitch": "0",
+        "invert_roll": "0",
+        "invert_x": "0",
+        "invert_y": "0",
+        "invert_yaw": "0",
+        "invert_z": "0",
+        "rotation_deadzone": "0",
+        "rotation_speed": "1",
+        "swap_yz": "0",
+        "translation_deadzone": "0",
+        "translation_speed": "1",
+        "zoom_speed": "1"
+    },
+    "orca_presets": [
+        {
+            "curr_bed_type": "3",
+            "filament": "Generic PLA - Supp Groot(Lappenstand.3mf)",
+            "filament_colors": "#FFFFFF",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Bambu Lab P1S 0.4 nozzle(Lappenstand.3mf)",
+            "process": "0.20mm Standard Diese Gut(Lappenstand.3mf)"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality CR-10 SE 0.6 nozzle",
+            "process": "0.20mm Standard @Creality CR10SE 0.6"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality CR-6 Max 0.6 nozzle",
+            "process": "0.20mm Standard @Creality CR-6 0.6"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#0FECD0",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality Ender-3 S1 Plus 0.2 nozzle",
+            "process": "0.24mm Draft @Creality Ender3S1Plus 0.2"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#0FECD0",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality Ender-3 S1 Plus 0.4 nozzle",
+            "process": "0.24mm Draft @Creality Ender3S1Plus 0.4"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#B907F3",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality Ender-3 S1 Plus 0.6 nozzle",
+            "process": "0.16mm Optimal @Creality Ender3S1Plus 0.6"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Creality Generic PLA",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Creality Ender-3 S1 Plus 0.8 nozzle",
+            "process": "0.20mm Standard @Creality Ender3S1Plus 0.8"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Default Filament",
+            "filament_colors": "#000000",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Default Printer",
+            "process": "Default Setting"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "FilX - SBS",
+            "filament_colors": "#000000",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "S1 Plus 0.4",
+            "process": "0.24mm Draft @Creality Ender3S1Plus 0.4"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "FilX - SBS",
+            "filament_colors": "#000000",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "S1 Plus 0.6",
+            "process": "0.4mm Draft @Creality Ender3S1Plus 0.6"
+        }
+    ],
+    "presets": {
+        "filaments": null,
+        "machine": "S1 Plus 0.6"
+    },
+    "print": {
+        "bed_leveling": "1",
+        "flow_cali": "1",
+        "timelapse": "1"
+    },
+    "recent": {
+        "last_opened_folder": "C:\\Users\\Paul\\Desktop\\Beebs",
+        "printhost_path": "",
+        "settings_folder": "C:\\Users\\Paul\\Desktop\\Beebs"
+    },
+    "recent_projects": {
+        "01": "C:\\Users\\Paul\\Desktop\\Beebs\\Fish Tunnel 2b.3mf",
+        "02": "C:\\Users\\Paul\\Desktop\\Beebs\\Fish Tunnel 2.3mf",
+        "03": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Pole_PrintSetup_PLA.3mf",
+        "04": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Pole_PrintSetup.3mf",
+        "05": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Tunnel 2.3mf",
+        "06": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Tunnel 2.stl",
+        "07": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Pleco Hide Cap 1.3mf",
+        "08": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Pleco Hide Cap 1.stl",
+        "09": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Fish Tunnel 2.3mf",
+        "10": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Fish Tunnel 2.stl",
+        "11": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Corner Hide.3mf",
+        "12": "C:\\Users\\robyn\\OneDrive\\Desktop\\Screw test\\Spikey 5.3mf",
+        "13": "C:\\Users\\robyn\\Downloads\\Dice Tower.3mf",
+        "14": "C:\\Users\\Paul\\Downloads\\raspi-camera-v3-module-cover-hex(1).3mf",
+        "15": "C:/Users/Paul/AppData/Local/Temp/Neutron/Body1.3mf",
+        "16": "C:\\Users\\Paul\\Desktop\\laptop-stand-dreddpunk20240316-8554-nascp\\Dreddpunk\\laptop-stand-dreddpunk\\Lappenstand.3mf",
+        "17": "E:\\Google Drive\\Car\\thumb_bolt.stl"
+    }
+}
+# MD5 checksum 2AD0B320F0963EE57102BDED4F3A9F5E

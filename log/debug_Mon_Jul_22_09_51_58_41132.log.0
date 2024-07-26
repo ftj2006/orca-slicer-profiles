@@ -1,0 +1,25 @@
+[warning]	2024-07-22 09:51:59.006037[Thread 0x00008284]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-22 09:51:59.007035[Thread 0x00008284]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-22 09:52:05.607403[Thread 0x00008284]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 09:52:05.615381[Thread 0x00008284]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 09:52:05.615381[Thread 0x00008284]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 09:52:05.626352[Thread 0x00007bb4]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 09:52:05.630342[Thread 0x000067cc]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 09:52:05.695168[Thread 0x0000841c]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-22 09:52:08.812348[Thread 0x00008284]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 09:52:21.106903[Thread 0x000075a8]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1004 milliseconds
+[Error 28]
+[error]	2024-07-22 09:52:21.122443[Thread 0x000073a4]:HMSQuery: update hms info error = curl:Timeout was reached:
+Resolving timed out after 10008 milliseconds
+[Error 28], body = , status = 0
+[error]	2024-07-22 09:52:29.135032[Thread 0x000057f4]:[Orca Updater]: status=0, error=curl:Timeout was reached:
+Failed to connect to api.bambulab.com port 443: Timed out
+[Error 28], body=
+[error]	2024-07-22 09:52:29.150990[Thread 0x000073a4]:HMSQuery: update hms info error = curl:Timeout was reached:
+Failed to connect to e.bambulab.com port 443: Timed out
+[Error 28], body = , status = 0
+[error]	2024-07-22 09:52:36.641778[Thread 0x000057f4]:[Orca Updater]: status=0, error=curl:Timeout was reached:
+Failed to connect to api.bambulab.com port 443: Timed out
+[Error 28], body=
+[error]	2024-07-22 09:52:45.743068[Thread 0x00008284]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

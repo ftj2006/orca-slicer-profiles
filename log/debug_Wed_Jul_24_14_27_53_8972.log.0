@@ -1,0 +1,37 @@
+[warning]	2024-07-24 14:27:53.742722[Thread 0x00008e30]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-24 14:27:53.742722[Thread 0x00008e30]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-24 14:27:53.944151[Thread 0x00008e30]:Slic3r::ConfigBase::load_from_json: parse C:\Users\Paul\AppData\Roaming\OrcaSlicer\system/Creality/machine/Creality Ender-3 S1 Plus 0.4 nozzle.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 109, column 27: syntax error while parsing object - unexpected string literal; expected '}'
+[error]	2024-07-24 14:27:53.944151[Thread 0x00008e30]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_0b90eebe87142ad62a17918dbb19ab4c>::operator (): load config file C:\Users\Paul\AppData\Roaming\OrcaSlicer\system/Creality/machine/Creality Ender-3 S1 Plus 0.4 nozzle.json Failed!
+[error]	2024-07-24 14:27:53.944151[Thread 0x00008e30]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse printer setting from C:\Users\Paul\AppData\Roaming\OrcaSlicer\system/Creality/machine/Creality Ender-3 S1 Plus 0.4 nozzle.json
+[error]	2024-07-24 14:27:53.956156[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\process\0.4mm Draft @Creality Ender3S1Plus 0.6.json!
+[error]	2024-07-24 14:27:53.956156[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\CCTREE - Colourful Silk PLA.json!
+[error]	2024-07-24 14:27:53.957117[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\Creality PETG.json!
+[error]	2024-07-24 14:27:53.957117[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - Rainbow PLA.json!
+[error]	2024-07-24 14:27:53.957117[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - SBS.json!
+[error]	2024-07-24 14:27:53.958115[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - Silk PLA.json!
+[error]	2024-07-24 14:27:53.958115[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - ASA.json!
+[error]	2024-07-24 14:27:53.958115[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - PETG.json!
+[error]	2024-07-24 14:27:53.959112[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - Silk PLA.json!
+[error]	2024-07-24 14:27:53.959112[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\machine\S1 Plus 0.4.json!
+[error]	2024-07-24 14:27:53.959112[Thread 0x00008e30]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\machine\S1 Plus 0.6.json!
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup_PLA.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.stl
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.stl
+[error]	2024-07-24 14:27:58.750677[Thread 0x00008e30]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00006118]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.stl
+[error]	2024-07-24 14:27:58.750677[Thread 0x00006118]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Corner Hide.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00006118]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Spikey 5.3mf
+[error]	2024-07-24 14:27:58.750677[Thread 0x00006118]:Unable to open the fileC:\Users\robyn\Downloads\Dice Tower.3mf
+[error]	2024-07-24 14:27:58.751674[Thread 0x00006118]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-24 14:27:58.751674[Thread 0x000095ec]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-24 14:27:59.237808[Thread 0x00008e30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:28:02.034071[Thread 0x00008e30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:28:02.892048[Thread 0x00008e30]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:28:02.895041[Thread 0x00008e30]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-24 14:28:03.027686[Thread 0x00008e30]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2024-07-24 14:28:08.296146[Thread 0x00007ecc]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-24 14:28:08.596909[Thread 0x00008e30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:28:14.524438[Thread 0x00008e30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

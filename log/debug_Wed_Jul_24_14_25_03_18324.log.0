@@ -1,0 +1,26 @@
+[warning]	2024-07-24 14:25:03.234087[Thread 0x00007780]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-24 14:25:03.235085[Thread 0x00007780]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-24 14:25:09.788125[Thread 0x00007780]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup_PLA.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.stl
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.stl
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.stl
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Corner Hide.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Spikey 5.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:Unable to open the fileC:\Users\robyn\Downloads\Dice Tower.3mf
+[error]	2024-07-24 14:25:09.795244[Thread 0x00007780]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-24 14:25:09.795244[Thread 0x0000a9bc]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-24 14:25:13.428347[Thread 0x00007780]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:25:15.438295[Thread 0x00007780]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:25:17.000122[Thread 0x00003748]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1013 milliseconds
+[Error 28]
+[warning]	2024-07-24 14:25:17.925587[Thread 0x0000a0f0]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-24 14:25:23.192080[Thread 0x00007780]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:25:23.195075[Thread 0x00007780]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-24 14:25:23.329710[Thread 0x00007780]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:27:32.342637[Thread 0x00007780]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

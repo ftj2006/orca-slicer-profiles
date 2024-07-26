@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "filament_flow_ratio": [
+        "0.92"
+    ],
+    "filament_settings_id": [
+        "CCTREE - Colourful Silk PLA"
+    ],
+    "filament_vendor": [
+        "CCTREE"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "CCTREE - Colourful Silk PLA",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "195"
+    ],
+    "version": "2.0.2.0"
+}

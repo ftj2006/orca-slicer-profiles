@@ -1,0 +1,11 @@
+[error]	2024-07-22 14:57:33.883123[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\process\0.4mm Draft @Creality Ender3S1Plus 0.6.json!
+[error]	2024-07-22 14:57:33.884080[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\Creality PETG.json!
+[error]	2024-07-22 14:57:33.884080[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\FilX - SBS.json!
+[error]	2024-07-22 14:57:33.885077[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\FilX - Silk PLA.json!
+[error]	2024-07-22 14:57:33.885077[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\SA Filament - PETG.json!
+[error]	2024-07-22 14:57:33.885077[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\filament\SA Filament - Silk PLA.json!
+[error]	2024-07-22 14:57:33.886074[Thread 0x00007184]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\default\machine\S1 Plus 0.6.json!
+[error]	2024-07-22 14:57:38.194251[Thread 0x00007184]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 14:57:47.977145[Thread 0x00007184]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-22 14:57:48.045072[Thread 0x00007184]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-22 14:57:51.590461[Thread 0x00007184]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null

@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#0000FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_settings_id": [
+        "Creality PETG"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Creality PETG",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "version": "2.0.2.0"
+}

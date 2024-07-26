@@ -1,0 +1,21 @@
+[warning]	2024-07-26 11:13:20.648595[Thread 0x00005198]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-26 11:13:20.648595[Thread 0x00005198]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-26 11:13:28.317244[Thread 0x00005198]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.stl
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Corner Hide.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Spikey 5.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\Downloads\Dice Tower.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x000050c0]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.stl
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.stl
+[error]	2024-07-26 11:13:28.329085[Thread 0x000050c0]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x000050c0]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x00007f50]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup_PLA.3mf
+[error]	2024-07-26 11:13:28.329085[Thread 0x000050c0]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.3mf
+[error]	2024-07-26 11:13:28.339060[Thread 0x00007f50]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-26 11:13:28.418419[Thread 0x0000a7d4]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-26 11:13:32.253227[Thread 0x00005198]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-07-26 11:13:33.252142[Thread 0x00005758]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-26 11:13:39.843748[Thread 0x00005198]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-26 11:13:40.295026[Thread 0x00005198]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-26 12:29:40.488463[Thread 0x00005198]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

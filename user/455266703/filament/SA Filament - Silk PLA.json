@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#FF80C0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_settings_id": [
+        "SA Filament - Silk PLA"
+    ],
+    "filament_vendor": [
+        "SA Filament"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "SA Filament - Silk PLA",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "2.0.2.0"
+}

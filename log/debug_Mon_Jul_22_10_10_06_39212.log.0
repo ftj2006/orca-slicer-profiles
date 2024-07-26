@@ -1,0 +1,14 @@
+[warning]	2024-07-22 10:10:06.648275[Thread 0x0000acec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-22 10:10:06.648275[Thread 0x0000acec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-22 10:10:13.015007[Thread 0x0000acec]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 10:10:13.022986[Thread 0x0000acec]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 10:10:13.022986[Thread 0x0000acec]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 10:10:13.030930[Thread 0x000023d0]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-22 10:10:13.032925[Thread 0x00008c38]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 10:10:13.034919[Thread 0x00005cf8]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 10:10:16.106402[Thread 0x0000acec]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 10:10:16.403458[Thread 0x0000acec]:Slic3r::NetworkAgent::connect_server error: network_agent=00000260993C3650, ret=-2
+[warning]	2024-07-22 10:10:17.515197[Thread 0x00008630]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-22 10:10:26.951478[Thread 0x0000acec]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 10:10:27.500990[Thread 0x0000acec]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 10:15:16.689417[Thread 0x0000acec]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

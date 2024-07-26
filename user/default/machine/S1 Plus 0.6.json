@@ -1,0 +1,25 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 Plus 0.6 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "end_print",
+    "machine_start_gcode": "start_print BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
+    "max_layer_height": [
+        "0.48"
+    ],
+    "min_layer_height": [
+        "0.16"
+    ],
+    "name": "S1 Plus 0.6",
+    "print_host": "192.168.0.151",
+    "printer_settings_id": "S1 Plus 0.6",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "version": "2.0.2.0",
+    "wipe": [
+        "0"
+    ]
+}

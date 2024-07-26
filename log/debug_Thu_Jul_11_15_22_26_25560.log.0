@@ -1,0 +1,19 @@
+[error]	2024-07-11 15:22:29.733315[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-11 15:22:29.738301[Thread 0x00001f44]:Unable to open the fileC:/Users/Paul/AppData/Local/Temp/Neutron/Body1.3mf
+[error]	2024-07-11 15:22:29.738301[Thread 0x00005bb8]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-11 15:22:31.707689[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-07-11 15:22:32.537439[Thread 0x000069d0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2024-07-11 15:22:54.175716[Thread 0x000029a8]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"cleareance_radius":47,000000,"printable_height":300,000000,
+[error]	2024-07-11 15:23:10.242612[Thread 0x000060d8]:OctoPrint: Error getting version at http://192.168.0.151/api/version : curl:Timeout was reached:
+Connection timed out after 10007 milliseconds
+[Error 28], HTTP 0, body: ``
+[warning]	2024-07-11 16:02:33.501452[Thread 0x000029a8]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"cleareance_radius":47,000000,"printable_height":300,000000,
+[error]	2024-07-11 16:02:48.382259[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-11 16:02:48.851532[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-11 16:02:49.260474[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-11 16:03:20.451774[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-07-11 16:03:48.809603[Thread 0x000029a8]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"cleareance_radius":47,000000,"printable_height":300,000000,
+[error]	2024-07-11 16:04:49.875175[Thread 0x000060d8]:OctoPrint: Error getting version at http://192.168.0.151/api/version : curl:Timeout was reached:
+Connection timed out after 10012 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2024-07-11 17:41:52.732107[Thread 0x000069d0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

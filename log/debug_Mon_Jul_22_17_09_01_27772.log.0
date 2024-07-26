@@ -1,0 +1,44 @@
+[warning]	2024-07-22 17:09:01.697700[Thread 0x000091d8]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-22 17:09:01.698698[Thread 0x000091d8]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-22 17:09:12.225849[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup_PLA.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pole_PrintSetup.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Tunnel 2.stl
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Pleco Hide Cap 1.stl
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Fish Tunnel 2.stl
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Corner Hide.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\OneDrive\Desktop\Screw test\Spikey 5.3mf
+[error]	2024-07-22 17:09:12.235823[Thread 0x000091d8]:Unable to open the fileC:\Users\robyn\Downloads\Dice Tower.3mf
+[error]	2024-07-22 17:09:12.238816[Thread 0x000091d8]:File Metadata/plate_1.png not found from archive
+[error]	2024-07-22 17:09:12.307650[Thread 0x00008794]:Unable to open the fileE:\Google Drive\Car\thumb_bolt.stl
+[error]	2024-07-22 17:09:16.733674[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-07-22 17:09:18.024522[Thread 0x000023e4]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-22 17:09:53.903320[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 18:03:15.298113[Thread 0x00004d14]:OctoPrint: Error getting version at http://192.168.0.100/api/version : curl:Timeout was reached:
+Connection timed out after 10010 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2024-07-22 19:01:40.244475[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 19:02:20.215417[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-22 19:58:50.146278[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 11:26:23.157411[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 14:02:18.258703[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:02:18.334847[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-24 14:02:22.194544[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:04:20.121267[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\process\0.4mm Draft @Creality Ender3S1Plus 0.6.json!
+[error]	2024-07-24 14:04:20.131240[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\CCTREE - Colourful Silk PLA.json!
+[error]	2024-07-24 14:04:20.141214[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\Creality PETG.json!
+[error]	2024-07-24 14:04:20.154658[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - Rainbow PLA.json!
+[error]	2024-07-24 14:04:20.165665[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - SBS.json!
+[error]	2024-07-24 14:04:20.176601[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\FilX - Silk PLA.json!
+[error]	2024-07-24 14:04:20.177599[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - ASA.json!
+[error]	2024-07-24 14:04:20.187602[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - PETG.json!
+[error]	2024-07-24 14:04:20.199538[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\filament\SA Filament - Silk PLA.json!
+[error]	2024-07-24 14:04:20.199538[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\machine\S1 Plus 0.4.json!
+[error]	2024-07-24 14:04:20.209544[Thread 0x000091d8]:can not find parent for config C:\Users\Paul\AppData\Roaming\OrcaSlicer\user\455266703\machine\S1 Plus 0.6.json!
+[error]	2024-07-24 14:09:04.565081[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:09:04.567108[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-07-24 14:09:04.704908[Thread 0x000091d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-07-24 14:09:49.860914[Thread 0x000091d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
