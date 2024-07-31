@@ -5,6 +5,9 @@
     "default_filament_colour": [
         "#000000"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_max_speed": [
         "30"
     ],
@@ -12,10 +15,10 @@
         "0"
     ],
     "filament_cost": [
-        "299"
+        "295"
     ],
     "filament_density": [
-        "0.967"
+        "0.98"
     ],
     "filament_max_volumetric_speed": [
         "25"
